@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## GitHub's GitHub Pages services. 
+They host a simple static website
+
+### Instructions:
+1. Create a public repository on GitHub named [username].github.io
+2. Add an index.html file to the root of the repo.
+3. http://[username].github.io/.
