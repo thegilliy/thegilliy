@@ -22,4 +22,4 @@ They host a simple static website
 ### Instructions:
 1. Create a public repository on GitHub named [username].github.io
 2. Add an index.html file to the root of the repo.
-3. http://[username].github.io/.
+3. http://[username].github.io
